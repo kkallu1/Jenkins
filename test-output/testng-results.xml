@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T00:04:34 IST" name="Default suite" finished-at="2021-08-12T00:04:34 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T00:04:34 IST" name="Default test" finished-at="2021-08-12T00:04:34 IST" duration-ms="62">
+      <class name="com.practiseProgramms.AnagramProgramm">
+        <test-method signature="leftshiftnums()[pri:0, instance:com.practiseProgramms.AnagramProgramm@1ddf84b8]" started-at="2021-08-12T00:04:34 IST" name="leftshiftnums" finished-at="2021-08-12T00:04:34 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leftshiftnums -->
+      </class> <!-- com.practiseProgramms.AnagramProgramm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
